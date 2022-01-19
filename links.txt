@@ -1,0 +1,5 @@
+https://game-of-words.herokuapp.com/gameofwords
+/verb&noun/?noun=car
+/adj&noun/?noun=car&limit=1000
+
+https://github.com/ITA-Dnipro/WHAT-TAQC-Java
